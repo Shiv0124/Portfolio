@@ -5,7 +5,7 @@ Welcome to my personal portfolio! This project is designed to showcase my skills
 ## 🎨 Live Demo
 ![Portfolio Screenshot](1_.png)
 
-You can view my portfolio live here to see the project in action: [Live Demo](https://adrian-portofolio.vercel.app/)
+You can view my portfolio live here to see the project in action: [Live Demo](https://portfolio-qqdvgmj4y-shiv0124s-projects.vercel.app/)
 
 ## 🛠 Technologies Used
 
