@@ -12,13 +12,13 @@ function Footer() {
         <a href="https://www.facebook.com/lambrugeorge/" target="_blank" rel="noopener noreferrer" className="social-icon">
           <FacebookIcon />
         </a>
-        <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" className="social-icon">
+        <a href="https://www.instagram.com/shivprasad_sp08?igsh=MTZzN2dzYnpvMW9iZw==" target="_blank" rel="noopener noreferrer" className="social-icon">
           <InstagramIcon />
         </a>
-        <a href="https://github.com/lambrugeorge" target="_blank" rel="noopener noreferrer" className="social-icon">
+        <a href="https://github.com/Shiv0124/Portfolio" target="_blank" rel="noopener noreferrer" className="social-icon">
           <GitHubIcon />
         </a>
-        <a href="https://www.linkedin.com/in/lambru-adrian/" target="_blank" rel="noopener noreferrer" className="social-icon">
+        <a href="https://www.linkedin.com/in/shivprasad-patil-0628032b9/" target="_blank" rel="noopener noreferrer" className="social-icon">
           <LinkedInIcon />
         </a>
       </div>

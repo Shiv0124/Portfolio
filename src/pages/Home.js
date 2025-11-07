@@ -17,13 +17,13 @@ function Home() {
         <h2>Hi, I'm Shivprasad</h2>
         <p>Web and UIUX Developer passionate about building user-friendly applications.</p>
         <div className='social-links'>
-          <a href="https://www.linkedin.com/in/lambru-adrian/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/shivprasad-patil-0628032b9/" target="_blank" rel="noopener noreferrer">
             <LinkedInIcon />
           </a>
-          <a href="mailto:lambru_george@yahoo.com" target="_blank" rel="noopener noreferrer">
+          <a href="mailto:patilshivprasad884@gmail.com" target="_blank" rel="noopener noreferrer">
             <EmailIcon />
           </a>
-          <a href="https://github.com/lambrugeorge" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Shiv0124/Portfolio" target="_blank" rel="noopener noreferrer">
             <GitHubIcon />
           </a>
         </div>
